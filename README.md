@@ -182,7 +182,9 @@ Customer pays (card / PayPal / Apple Pay / etc.)
 
 ## Screenshots
 
-> _Add screenshots of your checkout overlay and settings page here._
+**Gateway Settings Page**  
+![Gateway settings page](screenshots/screenshot-1.png)
+
 
 ---
 
